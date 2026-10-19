@@ -1,9 +1,4 @@
-%md
----
-# 📌 Repo 3: `churn-risk-signal-pipelines`
----
 
-```markdown
 # Churn Risk Signal Pipelines (Relationship + Experience)
 
 > Two production LLM-powered NLP pipelines that automatically detect and classify churn-risk signals from sales call transcripts — surfacing relationship risks (key personnel departures) and experience risks (product/support failures) with verbatim evidence for Customer Success intervention.
